@@ -10,4 +10,8 @@ class DashboardController extends Controller
     return view('admin.dashboard');
 
     }
+    public function logout(){
+        $this->middleware('guest')->except('logout');
+        return view('home');
+    }
 }

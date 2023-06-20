@@ -11,7 +11,7 @@
                     </h2>
                     <ul class="list-unstyled list-hours mb-5 text-left mx-auto">
                         <li class="list-unstyled-item list-hours-item d-flex">
-                            Sunday
+                            Saturday
                             <span class="ms-auto">Closed</span>
                         </li>
                         <li class="list-unstyled-item list-hours-item d-flex">
